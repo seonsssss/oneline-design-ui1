@@ -1,4 +1,4 @@
-import _ from '../node_modules/@myapp/ui/dist/styles/design-system.scss'
+import _ from '../node_modules/@oneline-design-ui/ui/dist/styles/design-system.scss'
 
 console.log('_', _)
 
